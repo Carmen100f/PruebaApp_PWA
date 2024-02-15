@@ -1,0 +1,37 @@
+{
+    "name": "WeatherApp - Aplicación para Fotografa Carmen100fuegos",
+    "short_name": "WeatherApp",
+    "description": "Aplicación PWA que muestra nuesro trabajo fotografico",
+    "background_color": "#002e7a",
+    "theme_color": "#002e7a",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang": "gl-ES",
+    "icons": [
+
+        {
+            "src": "assets/favicon/Icon16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/favicon/Icon32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/favicon/Icon96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/favicon/Icon180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+        
+    ]
+
+}
